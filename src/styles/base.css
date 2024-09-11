@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: var(--primary-color);
+    color: white;
+}
+
+a {
+    color: var(--highlight-color);
+    text-decoration: none;
+}
+
+.full-height {
+    min-height: 100vh;
+}

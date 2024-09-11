@@ -1,0 +1,11 @@
+@import './_vars-mobile.css';
+@import './_vars-desktop.css';
+
+:root {
+  --primary-color: #fff;
+  --secondary-color: #333;
+  --highlight-color: #9380e0;
+  --background-color: #f8f9fa;
+  --border-color: #dee2e6;
+  --font-family: 'Roboto', sans-serif;
+}
